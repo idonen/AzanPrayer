@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "1.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/idonen/MyApplication/refs/heads/main/app-debug.apk?token=GHSAT0AAAAAADHIGLQG4QV2PNRFIA3AO4WI2DTJLFA",
+  "apkUrl": "https://raw.githubusercontent.com/idonen/AzanPrayer/refs/heads/main/app-debug.apk",
   "updateLog": "1. 修复若干已知问题\n2. 提升稳定性与性能",
   "isForceUpdate": false,
   "fileSize": "20904581",
