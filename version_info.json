@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
+  "versionCode": 4,
   "versionName": "1.0.0",
   "apkUrl": "https://raw.githubusercontent.com/idonen/AzanPrayer/refs/heads/main/app-debug.apk",
-  "updateLog": "1. 修复若干已知问题\n2. 提升稳定性与性能",
+  "updateLog": "1. 实现年度的祈祷时间功能\n2. 添加每天1次自动更新检测",
   "isForceUpdate": false,
   "fileSize": "20904581",
-  "releaseDate": "2025-07-13"
+  "releaseDate": "2025-07-20"
 }
