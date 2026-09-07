@@ -1,9 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.2",
+  "versionCode": 11,
+  "versionName": "1.0.3",
   "apkUrl": "https://idonen.github.io/AzanPrayer/app-debug.apk",
-  "updateLog": "What's New in 1.0.2\n1. 优化应用图片资源，APK 体积由 78.2 MB 降至约 33.9 MB。\n2. 透明装饰与边框采用无损压缩，保持界面细节。\n3. 照片类素材采用高质量压缩，减少下载和安装占用。",
+  "updateLog": "What's New in 1.0.3\n1. 根据新版效果图更新底部导航：细金边、深绿渐变与全新金色图标。\n2. 选中栏目显示柔和金光，切换栏目时光效同步移动。\n3. 优化底栏文字间距、屏幕适配和旋转后的选中状态恢复。\n4. 保留轻量图片资源，安装包约 33.9 MB。",
   "isForceUpdate": false,
-  "fileSize": "33853149",
-  "releaseDate": "2026-09-07"
+  "fileSize": "33862885",
+  "releaseDate": "2026-09-08"
 }
