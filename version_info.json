@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.1",
+  "versionCode": 10,
+  "versionName": "1.0.2",
   "apkUrl": "https://idonen.github.io/AzanPrayer/app-debug.apk",
-  "updateLog": "What's New in 1.0.1\n1. 重新设计首页：根据设备连接记录显示不同布局，支持顶部 Banner 左右滑动。\n2. 扫描按钮直接进入蓝牙设备扫描页面。\n3. 实时显示蓝牙开关状态，点击可打开系统蓝牙设置。\n4. 设备选中后显示删除按钮，支持重连及已连接设备进入设置。\n5. 优化底部导航固定显示、状态栏颜色及不同屏幕下的界面布局。\n6. 修复设备连接成功后退出扫描页面导致断开的问题。",
+  "updateLog": "What's New in 1.0.2\n1. 优化应用图片资源，APK 体积由 78.2 MB 降至约 33.9 MB。\n2. 透明装饰与边框采用无损压缩，保持界面细节。\n3. 照片类素材采用高质量压缩，减少下载和安装占用。",
   "isForceUpdate": false,
-  "fileSize": "78174378",
+  "fileSize": "33853149",
   "releaseDate": "2026-09-07"
 }
