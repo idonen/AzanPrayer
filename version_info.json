@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.3",
+  "versionCode": 12,
+  "versionName": "1.0.4",
   "apkUrl": "https://idonen.github.io/AzanPrayer/app-debug.apk",
-  "updateLog": "What's New in 1.0.3\n1. 根据新版效果图更新底部导航：细金边、深绿渐变与全新金色图标。\n2. 选中栏目显示柔和金光，切换栏目时光效同步移动。\n3. 优化底栏文字间距、屏幕适配和旋转后的选中状态恢复。\n4. 保留轻量图片资源，安装包约 33.9 MB。",
+  "updateLog": "What's New in 1.0.4\n1. 按新版效果图重做添加设备与蓝牙扫描页面，统一深绿金色风格。\n2. 添加二维码识别、按设备型号扫描和手动输入蓝牙地址入口。\n3. 扫描列表显示真实设备、连接状态，支持停止、重试及进入设备设置。\n4. 优化蓝牙权限、开关提示和长屏布局，保留轻量 WebP 图片资源。",
   "isForceUpdate": false,
-  "fileSize": "33862885",
+  "fileSize": "34650273",
   "releaseDate": "2026-09-08"
 }
