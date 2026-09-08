@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.5",
+  "versionCode": 14,
+  "versionName": "1.0.6",
   "apkUrl": "https://idonen.github.io/AzanPrayer/app-debug.apk",
-  "updateLog": "What's New in 1.0.5\n1. 按新版效果图优化 App Settings，更新标题装饰、金色图标和七个设置卡片。\n2. 复用主界面底栏，适配长屏和小屏滚动布局。\n3. 优化通知开关效果，修复通知设置重新进入页面后的状态恢复。\n4. About 显示实际安装版本，优化检查更新时切换页面的稳定性。",
+  "updateLog": "What's New in 1.0.6\n1. 按新版效果图重做 Prayer Times 页面，采用绿色金边装饰、祈祷图标和六行时间卡片。\n2. 仅显示今天的祈祷时间，移除当前、一周、一月和一年切换。\n3. 日期、城市、时间及计算方法由代码动态显示，支持城市时区和 12/24 小时制。\n4. 复用主界面底栏，适配长屏留白与小屏滚动，保留城市、日历和声音设置入口。\n5. 页面每分钟及返回时刷新，保留夏令时、时间偏移和计算规则。",
   "isForceUpdate": false,
-  "fileSize": "34941931",
+  "fileSize": "35178346",
   "releaseDate": "2026-09-09"
 }
