@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.8",
+  "versionCode": 17,
+  "versionName": "1.0.9",
   "apkUrl": "https://idonen.github.io/AzanPrayer/app-debug.apk",
-  "updateLog": "What's New in 1.0.8\n1. Quran 页面按参考图重做，章节列表可独立滚动，版本选择区和主界面底栏保持固定。\n2. Tasbih 页面按五套主题效果图重做，标题和主题控件固定，中间计数场景支持滚动，页面不显示主界面底栏。\n3. 增加 Quran 章节播放/选择状态处理和离线下载提示，所有页面文案继续使用本地化资源。\n4. 修复更新检查器在页面销毁后仍提交任务导致的线程池竞态。",
+  "updateLog": "What's New in 1.0.9\n1. 重新设计 Qabli 指南针与朝向天房页面，采用深绿金色边框和罗盘装饰。\n2. 顶部标题、返回按钮和标签栏保持固定，下方定位信息与罗盘可独立滚动。\n3. 标题、方向刻度、经纬度、方位角和状态提示由代码显示，支持英文、阿拉伯文、法文、印尼文、马来文、俄文和土耳其文。\n4. 天房标记按当前位置计算，加入磁偏角修正，并完善页面切换、定位回调与权限提示处理。",
   "isForceUpdate": false,
-  "fileSize": "35658209",
+  "fileSize": "35929472",
   "releaseDate": "2026-09-10"
 }
