@@ -1,9 +1,9 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.11",
+  "versionCode": 20,
+  "versionName": "1.0.12",
   "apkUrl": "https://idonen.github.io/AzanPrayer/app-debug.apk",
-  "updateLog": "What's New in 1.0.11\n1. 设备扫描页固定顶部导航、扫描状态和底部操作按钮，仅中间设备列表滚动。\n2. 检查全部 19 个设置入口，调整不符合要求的页面，固定顶部导航和底部保存、确认按钮。\n3. 城市双列表独立滚动，AzanArm 保存按钮固定，适配小屏和长屏布局。\n4. 保留 Tasbih 五套主题及 Qabli 已有的固定导航和滚动效果。",
+  "updateLog": "What's New in 1.0.12\n1. 修复设备扫描页在空列表、少量设备时底部留白，扫描和手动添加按钮始终固定在底部。\n2. 按效果图优化产品分类 Tab，产品商标和型号改为原生文字，支持七种语言和阿拉伯语布局。\n3. 首页第二张 Banner 更换为 Smart Azan Clock 效果图，修正图片比例，支持滑动切换和点击进入产品页。",
   "isForceUpdate": false,
-  "fileSize": "37043463",
-  "releaseDate": "2026-09-11"
+  "fileSize": "37209196",
+  "releaseDate": "2026-09-12"
 }
