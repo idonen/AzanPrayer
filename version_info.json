@@ -1,9 +1,9 @@
 {
-  "versionCode": 18,
-  "versionName": "1.0.10",
+  "versionCode": 19,
+  "versionName": "1.0.11",
   "apkUrl": "https://idonen.github.io/AzanPrayer/app-debug.apk",
-  "updateLog": "What's New in 1.0.10\n1. 根据五张效果图重新设计 Tasbih 页面，新增深绿、象牙白、黑金、沙金和深蓝五套独立场景主题。\n2. 标题、返回按钮和主题选择保持固定，下方场景及计数区可滚动，不显示底部导航。\n3. 保留计数、循环次数、上限选择、重置和声音设置，主题及计数状态自动保存。\n4. 优化浅色主题文字和状态栏配色、大屏显示以及多语言文案。",
+  "updateLog": "What's New in 1.0.11\n1. 设备扫描页固定顶部导航、扫描状态和底部操作按钮，仅中间设备列表滚动。\n2. 检查全部 19 个设置入口，调整不符合要求的页面，固定顶部导航和底部保存、确认按钮。\n3. 城市双列表独立滚动，AzanArm 保存按钮固定，适配小屏和长屏布局。\n4. 保留 Tasbih 五套主题及 Qabli 已有的固定导航和滚动效果。",
   "isForceUpdate": false,
-  "fileSize": "37225364",
+  "fileSize": "37043463",
   "releaseDate": "2026-09-11"
 }
