@@ -1,9 +1,9 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.13",
+  "versionCode": 22,
+  "versionName": "1.0.14",
   "apkUrl": "https://idonen.github.io/AzanPrayer/app-debug.apk",
-  "updateLog": "What's New in 1.0.13\n1. 应用名称统一为 Smart Adhan，同步更新产品页、关于、隐私说明和反馈主题，覆盖七种语言。\n2. 新增参考图启动页，自动进入首页，适配 Android 12 及以上系统启动画面，并更新金色时钟应用图标。\n3. 修复 LED Azan Clock 页面顶部紫色状态栏，统一深绿色背景和浅色系统图标。",
+  "updateLog": "What's New in 1.0.14\n1. LED、LCD、Watch、TFT 和 Tasbih 产品页新增搜索，支持型号关键词、分类筛选、搜索历史及清空，覆盖七种语言。\n2. 按新版效果图完善 Tasbih 五套主题，返回按钮移至固定顶栏，下方内容可滚动，无底栏。\n3. 修复主题切换时计数文字位置，保留计数、循环、上限、音效和状态保存功能。",
   "isForceUpdate": false,
-  "fileSize": "37557158",
+  "fileSize": "39948273",
   "releaseDate": "2026-09-13"
 }
