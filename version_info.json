@@ -1,9 +1,9 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.12",
+  "versionCode": 21,
+  "versionName": "1.0.13",
   "apkUrl": "https://idonen.github.io/AzanPrayer/app-debug.apk",
-  "updateLog": "What's New in 1.0.12\n1. 修复设备扫描页在空列表、少量设备时底部留白，扫描和手动添加按钮始终固定在底部。\n2. 按效果图优化产品分类 Tab，产品商标和型号改为原生文字，支持七种语言和阿拉伯语布局。\n3. 首页第二张 Banner 更换为 Smart Azan Clock 效果图，修正图片比例，支持滑动切换和点击进入产品页。",
+  "updateLog": "What's New in 1.0.13\n1. 应用名称统一为 Smart Adhan，同步更新产品页、关于、隐私说明和反馈主题，覆盖七种语言。\n2. 新增参考图启动页，自动进入首页，适配 Android 12 及以上系统启动画面，并更新金色时钟应用图标。\n3. 修复 LED Azan Clock 页面顶部紫色状态栏，统一深绿色背景和浅色系统图标。",
   "isForceUpdate": false,
-  "fileSize": "37209196",
-  "releaseDate": "2026-09-12"
+  "fileSize": "37557158",
+  "releaseDate": "2026-09-13"
 }
