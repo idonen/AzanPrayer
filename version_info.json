@@ -1,9 +1,9 @@
 {
-  "versionCode": 22,
-  "versionName": "1.0.14",
+  "versionCode": 23,
+  "versionName": "1.0.15",
   "apkUrl": "https://idonen.github.io/AzanPrayer/app-debug.apk",
-  "updateLog": "What's New in 1.0.14\n1. LED、LCD、Watch、TFT 和 Tasbih 产品页新增搜索，支持型号关键词、分类筛选、搜索历史及清空，覆盖七种语言。\n2. 按新版效果图完善 Tasbih 五套主题，返回按钮移至固定顶栏，下方内容可滚动，无底栏。\n3. 修复主题切换时计数文字位置，保留计数、循环、上限、音效和状态保存功能。",
+  "updateLog": "What's New in 1.0.15\n1. 统一更新 Smart Adhan 应用 Logo，使用新版普通图标、圆形图标、自适应图标及单色主题图标。\n2. Android 12 及以上系统启动图标同步更新，移除旧版图标资源。",
   "isForceUpdate": false,
-  "fileSize": "39948273",
+  "fileSize": "41127063",
   "releaseDate": "2026-09-13"
 }
