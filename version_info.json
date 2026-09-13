@@ -1,9 +1,9 @@
 {
-  "versionCode": 23,
-  "versionName": "1.0.15",
+  "versionCode": 24,
+  "versionName": "1.0.16",
   "apkUrl": "https://idonen.github.io/AzanPrayer/app-debug.apk",
-  "updateLog": "What's New in 1.0.15\n1. 统一更新 Smart Adhan 应用 Logo，使用新版普通图标、圆形图标、自适应图标及单色主题图标。\n2. Android 12 及以上系统启动图标同步更新，移除旧版图标资源。",
+  "updateLog": "What's New in 1.0.16\n1. 优化启动流程，系统 Logo 画面结束后直接进入首页，不再连续显示第二张启动图。\n2. 移除应用启动页的 1.5 秒等待，首页导航可立即操作。",
   "isForceUpdate": false,
-  "fileSize": "41127063",
-  "releaseDate": "2026-09-13"
+  "fileSize": "41126415",
+  "releaseDate": "2026-09-14"
 }
